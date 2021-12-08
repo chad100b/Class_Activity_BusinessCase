@@ -15,6 +15,7 @@
 
 * Apple is a publically traded company with annual revenues over $270 billion and a market capitalization over $1 Trillion.
 
+![](Qolo_CloudNative.png)
 
 ## Business Activities:
 
